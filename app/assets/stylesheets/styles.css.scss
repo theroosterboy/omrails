@@ -1,0 +1,20 @@
+
+/* You Could Change The Font
+/*$baseFontFamily: Oxygen;
+@import url(http://fonts.googleapis.com/cdd?family=oxygen);*/
+
+
+@import 'bootstrap';
+
+
+@import 'bootstrap-responsive';
+
+.footer{
+	
+	
+	margin-top: 50px;
+	color:$grayLight;
+	a { 
+		color: $gray;
+	}
+}
